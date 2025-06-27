@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Politique de Confidentialité – Samsara</title>
+</head>
+<body style="font-family: sans-serif; padding: 2rem; max-width: 800px; margin: auto;">
+  <h1>Politique de Confidentialité – Samsara</h1>
+  <p>Dernière mise à jour : juin 2025</p>
+
+  <h2>Collecte et utilisation des données</h2>
+  <p>Notre application peut collecter certains types de données personnelles dans le but d'assurer son bon fonctionnement...</p>
+
+  <!-- Tu colles ici tout le texte que tu as déjà rédigé, sans rien changer -->
+
+  <h2>Suppression des données</h2>
+  <p>Pour supprimer votre compte et les données associées : <br>
+  👉 <a href="https://samsara.e-monsite.com/pages/suppression-du-profil-utilisateur.html">
+  https://samsara.e-monsite.com/pages/suppression-du-profil-utilisateur.html</a></p>
+</body>
+</html>
