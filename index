@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Politique de Confidentialité – Samsara</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    hr {
+      margin: 3rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Politique de Confidentialité – Samsara</h1>
+  <p><strong>Dernière mise à jour :</strong> Juin 2025</p>
+
+  <h2>Collecte et utilisation des données</h2>
+  <p>Notre application peut collecter certains types de données personnelles dans le but d'assurer son bon fonctionnement, d'améliorer l'expérience utilisateur ou de proposer des fonctionnalités essentielles. Toutes les données collectées le sont avec votre consentement, conformément à notre politique de confidentialité.</p>
+
+  <h3>Types de données potentiellement collectées ou utilisées :</h3>
+  <ul>
+    <li><strong>Localisation :</strong> Position approximative et exacte</li>
+    <li><strong>Informations personnelles :</strong> Nom, adresse e-mail, identifiant utilisateur, date de naissance, genre</li>
+    <li><strong>Informations financières :</strong> Données de paiement (pour les utilisateurs masculins), historique d’achat</li>
+    <li><strong>Contenu généré par l’utilisateur :</strong> Messages, photos, vidéos</li>
+    <li><strong>Activité dans l’application :</strong> Navigation, interactions, performances</li>
+    <li><strong>Identifiants de l'appareil :</strong> ID publicitaire Google, Firebase Installation ID</li>
+  </ul>
+
+  <h2>Partage des données</h2>
+  <p>Les données collectées ne sont jamais vendues à des tiers. Elles peuvent être partagées uniquement avec :</p>
+  <ul>
+    <li>Prestataires techniques (Firebase, Google Analytics, Stripe)</li>
+    <li>Services de paiement pour les transactions intégrées</li>
+    <li>Outils de diagnostic (en cas de crash ou bug)</li>
+  </ul>
+
+  <h2>Sécurité et conformité</h2>
+  <p>Nous appliquons des mesures de sécurité strictes (chiffrement, authentification). Nous respectons le RGPD et les réglementations locales.</p>
+
+  <h2>Suppression des données</h2>
+  <p>Vous pouvez demander la suppression de vos données à tout moment en visitant cette page :<br>
+    👉 <a href="https://samsara.e-monsite.com/pages/suppression-du-profil-utilisateur.html" target="_blank">
+    https://samsara.e-monsite.com/pages/suppression-du-profil-utilisateur.html</a>
+  </p>
+
+  <hr>
+
+  <h1>Privacy Policy – Samsara</h1>
+  <p><strong>Last updated:</strong> June 2025</p>
+
+  <h2>Data Collection and Use</h2>
+  <p>Our app may collect certain personal data to ensure proper functionality, enhance user experience, or enable essential features. All data is collected with your consent, in compliance with our privacy policy.</p>
+
+  <h3>Types of data potentially collected or used:</h3>
+  <ul>
+    <li><strong>Location:</strong> Approximate and precise location</li>
+    <li><strong>Personal Information:</strong> Name, email address, user ID, date of birth, gender</li>
+    <li><strong>Financial Information:</strong> Payment data (for male users), purchase history</li>
+    <li><strong>User-generated content:</strong> Messages, uploaded photos and videos</li>
+    <li><strong>App activity:</strong> Navigation history, interactions, performance diagnostics</li>
+    <li><strong>Device identifiers:</strong> Google Advertising ID, Firebase Installation ID</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>We never sell user data. Data may only be shared with:</p>
+  <ul>
+    <li>Technical providers (Firebase, Google Analytics, Stripe)</li>
+    <li>Payment processors for in-app purchases</li>
+    <li>Crash and error reporting tools</li>
+  </ul>
+
+  <h2>Security and Compliance</h2>
+  <p>We implement strong security measures (encryption, authentication) to protect your data. We comply with GDPR and all relevant regulations.</p>
+
+  <h2>Data Deletion</h2>
+  <p>You may request deletion of your data at any time via:<br>
+    👉 <a href="https://samsara.e-monsite.com/pages/suppression-du-profil-utilisateur.html" target="_blank">
+    https://samsara.e-monsite.com/pages/suppression-du-profil-utilisateur.html</a>
+  </p>
+
+</body>
+</html>
